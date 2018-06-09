@@ -1,0 +1,64 @@
+<resources>
+    <!-- App Name in Title Bar -->
+    <string name="app_name">Figures of Speech Quiz</string>
+    <!-- Header Strings -->
+    <string name="header1">Question 1</string>
+    <string name="header2">Question 2</string>
+    <string name="header3">Question 3</string>
+    <string name="header4">Question 4</string>
+    <string name="header5">Question 5</string>
+    <string name="header6">Question 6</string>
+    <string name="header7">Question 7</string>
+    <string name="header8">Question 8</string>
+    <string name="header9">Question 9</string>
+    <string name="header10">Question 10</string>
+    <!-- Question Strings -->
+    <string name="question1">A <i>figure of speech</i> is:</string>
+    <string name="question2">Figures of speech mean exactly what the words say.</string>
+    <string name="question3">Two figures of speech that involve comparisons are: </string>
+    <string name="question4">The words <i>like</i> and <i>as</i> typically appear in a</string>
+    <string name="question5">Two types of irony are:</string>
+    <string name="question6">When words are <i>literal</i>, they mean exactly what they say.</string>
+    <string name="question7"><i>\"Death lays its icy hands on Kings\"</i> is a type of:</string>
+    <string name="question8">Another name for figure of speech is <i>figuration language</i></string>
+    <string name="question9">There are _______ figures of speech.</string>
+    <string name="question10"><i>\"Daniel is a lion\"</i> is a type of:</string>
+    <!-- Radio Button Strings -->
+    <string name="radio_q1_option1">a familiar expression or saying.</string>
+    <string name="radio_q1_option2">a non-literal way of saying something</string>
+    <string name="radio_q1_option3">what the author really means.</string>
+    <string name="radio_true">True</string>
+    <string name="radio_false">False</string>
+    <string name="radio_q9_option1">5 figures of speech.</string>
+    <string name="radio_q9_option2">250 figures of speech.</string>
+    <string name="radio_q9_option3">more than 250 figures of speech.</string>
+    <!-- CheckBox Strings -->
+    <string name="check_q3_option1">Metonymy</string>
+    <string name="check_q3_option2">Simile</string>
+    <string name="check_q3_option3">Metaphor</string>
+    <string name="check_q5_option1">Situational</string>
+    <string name="check_q5_option2">Criminal</string>
+    <string name="check_q5_option3">Verbal</string>
+    <!-- EditText String (Hint and Answers) -->
+    <string name="edit_text_hint">Answer</string>
+    <string name="edit_text_q4_answer">simile</string>
+    <string name="edit_text_q7_answer">personification</string>
+    <string name="edit_text_q10_answer">metaphor</string>
+    <!-- Button Strings -->
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <!-- Toast Message Strings -->
+    <string name="excellent">Excellent!</string>
+    <string name="good_job">Good Job!</string>
+    <string name="try_again">Try again. You can do better!</string>
+    <string name="q1_error">Please answer Question 1!</string>
+    <string name="q2_error">Please answer Question 2!</string>
+    <string name="q3_error">Please answer Question 3!</string>
+    <string name="q5_error">Please answer Question 5!</string>
+    <string name="q6_error">Please answer Question 6!</string>
+    <string name="q8_error">Please answer Question 8!</string>
+    <string name="q9_error">Please answer Question 9!</string>
+    <string name="edittext_error">Please answer this question!</string>
+    <string name="checkbox_error1">You cannot check more than two checkboxes!</string>
+    <string name="checkbox_error2">You must check two checkboxes!</string>
+</resources>
