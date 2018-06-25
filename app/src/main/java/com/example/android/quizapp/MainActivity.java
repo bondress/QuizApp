@@ -114,17 +114,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, R.string.q3_error, Toast.LENGTH_SHORT).show();
                     return;
                 }
-                //Ensure that the user checks at least two checkboxes
-                //if (checkQ3ButtonCorrect1.isChecked() && checkQ3ButtonCorrect2.isChecked()){
-                //   checkQ3ButtonWrong.setChecked(false);
-                //    Toast.makeText(MainActivity.this, R.checkbox_error1, Toast.LENGTH_SHORT).show();
-                //    return;
-                //}
-                //Ensure that the user cannot check more than two checkboxes
-                //if (checkQ3ButtonCorrect1.isChecked() && !checkQ3ButtonCorrect2.isChecked() && !checkQ3ButonWrong.isChecked()){
-                //    Toast.makeText(MainActivity.this, R.checkbox_error1, Toast.LENGTH_SHORT).show();
-                //    return;
-                //}
                 if (editTextQ4.getText().toString().length() == 0) {
                     //Create a variable to reference the TextView related to this question
                     TextView targetView = findViewById(R.id.question4header_text_view);
